@@ -16,7 +16,7 @@ PVC_Pending=$(kubectl get pvc --all-namespaces | awk '{print $3}' | grep "Pendin
 if [ ! -z "$node_not_ready" ]; then
     data=$(kubectl get nodes)
     #Slack notification with faulty node list
-    curl -X POST -H 'Content-type: application/json' --data "{\"channel\":\"channel_name\",\"text\": \"Alert from $clustername Cluster.Detected issues with Node being in NotReady state. It will be taken care with auto reboot of the Nodes. No manual action needed to address this.\`\`\`$data\`\`\`\"}" https://hooks.slack.com/services/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
+    curl -X POST -H 'Content-type: application/json' --data "{\"channel\":\"channel_name\",\"text\": \"Alert from $clustername Cluster.Detected issues with Node being in NotReady state. It will be taken care with auto reboot of the Nodes. No manual action needed to address this.\`\`\`$data\`\`\`\"}" 
     for eachmachine in ${node_not_ready[@]}
         do
             ssh root@$eachmachine 'reboot'
