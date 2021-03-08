@@ -40,8 +40,11 @@ It was very good learning experience. I added below tools and technologies into 
 -   Django [ Rating 8/10]
 -   SVN [ Rating 8/10]
 -   CD CD architecture [ Rating 8/10]
+-   Git [ Rating 6/10 ]
 
 New addition:
 - android based product and open source integration [ Rating 4/10 ]
 - Leading the CI CD architecture implementation [ Rating 8/10]
 - Mentoring [ Rating 6/10 ]
+- Gerrit [ Rating 6/10 ]
+- 
