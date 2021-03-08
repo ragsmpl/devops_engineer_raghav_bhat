@@ -33,6 +33,7 @@ Elvis was the bug tracking tool used and JIRA was the project management tool us
 
 ## What did I learn?
 It was very good learning experience. I added below tools and technologies into my knowledge library:
+- Shell scripting [ Rating 7/10]
 - make build system[Rating 6/10]
 - Perforce (Version control, branching, merging) [Rating 9/10]
 - Hudson/Jenkins/build central [Rating 9/10]
@@ -40,6 +41,10 @@ It was very good learning experience. I added below tools and technologies into 
 - Bug tracking and management [ Rating 10/10]
 - Linux fundamentals [ Rating 8/10]
 - Managing infra structure for the build [ Rating 9/10]
+
+New addition:
+- build central/Cruice control [Rating 9/10]
+- jamfile based system [Rating 5/10]
+- Perl/Java scripting [Rating  6/10]
 - Software integration [Rating 8/10]
 - On demand release [Rating 10/10]
-- Perl/Java scripting [Rating  6/10]
