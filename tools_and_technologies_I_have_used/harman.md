@@ -1,7 +1,5 @@
 # Raghav Bhat - Harman International
 
-I left HCL tech and Joined Harman international for better salary. It was my first switch. I was hired as software integrator and build/release engineer.
-
 **Software Integration/build and release**
 In HCL, I handled project which was maintained by single large team. But in Harman, our team had to integrate releases from different teams and build our code and then make the releases. That is why I stated my role as software integrator and build/release engineer.
 
