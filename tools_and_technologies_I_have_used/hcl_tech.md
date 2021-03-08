@@ -47,6 +47,7 @@ It was very good learning experience. I added below tools and technologies into 
 - Shell Scripting [Rating 6/10]
 - Perforce (Version control, branching, merging) [Rating 7/10]
 - Hudson/Jenkins [Rating 7/10]
+- make build system[Rating 6/10]
 - Release management [ Rating 6/10]
 - Bug tracking and management [ Rating 7/10]
 - Building dashboard [ Rating 5/10]
