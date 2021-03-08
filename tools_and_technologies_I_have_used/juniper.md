@@ -41,3 +41,4 @@ New addition:
 - Django [ Rating 6/10]
 - SVN [ Rating 8/10]
 - CD CD architecture [ Rating 6/10]
+- git [ Rating 4/10 ]
