@@ -73,3 +73,5 @@ Now we are ready to create our infrastructure.
 terraform init
 terraform plan
 terraform apply
+
+https://elatov.github.io/2018/07/use-terraform-to-deploy-a-vm-in-esxi/
